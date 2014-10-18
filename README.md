@@ -1,2 +1,5 @@
 cucr
 ====
+work
+study
+life
