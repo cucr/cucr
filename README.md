@@ -1,7 +1,4 @@
 cucr
 ====
-work
-study
-life
-===
-keep record yourself
+work study life keep record yourself
+====
